@@ -1,6 +1,6 @@
 # Reinforcement Learning in Python: From Basics to Advanced
 
-A comprehensive Python-based repository covering the fundamentals to advanced topics in Reinforcement Learning, including theory, algorithms, and practical implementations. This repository provides a structured, end-to-end guide to Reinforcement Learning (RL) using Python. It is designed for students, researchers, and developers who want to understand and implement RL algorithms from scratch, with an emphasis on theory, intuition, and hands-on practice.
+A comprehensive Python-based repository covering topics from fundamentals to advanced in Reinforcement Learning, including theory, algorithms, and practical implementations. This repository provides a structured, end-to-end guide to Reinforcement Learning (RL) using Python. It is designed for students, researchers, and developers who want to understand and implement RL algorithms from scratch, with an emphasis on theory, intuition, and hands-on practice.
 
 Its primary aim is to provide clear, well-documented Python code for a broad spectrum of RL methods—ranging from classical, tabular approaches to advanced, function-approximation techniques—applied to Gymnasium (formerly OpenAI Gym) environments. Each algorithm is implemented with readability and pedagogical value in mind, making this project suitable for both self-study and as a reference for practitioners.
 
