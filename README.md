@@ -16,27 +16,27 @@ Its primary aim is to provide clear, well-documented Python code for a broad spe
 
 ## 📚 Structured by Algorithm Class
 
-### 🧱 01: Introduction to OpenAI Gym Environments
+### 🧱 01. Introduction to OpenAI Gym Environments
 - FrozenLake  
 - CartPole  
 - Walker2D  
 
-### 🧮 02: Dynamic Programming (Model-Based RL)
+### 🧮 02. Dynamic Programming (Model-Based RL)
 - Policy Evaluation  
 - Policy Improvement  
 - Policy Iteration  
 - Value Iteration  
 
-### 🎲 03: Monte Carlo (Model-Free RL)
+### 🎲 03. Monte Carlo (Model-Free RL)
 - First-Visit & Every-Visit Prediction  
 - Monte Carlo Control with ε-Greedy Policies  
 
-### ⏱️ 04: Temporal Difference (Model-Free RL)
+### ⏱️ 04. Temporal Difference (Model-Free RL)
 - On‐Policy TD: SARSA  
 - Off‐Policy TD: Q-Learning  
 - Deep Q-Networks (DQN) with Experience Replay  
 
-### 🎯 05: Policy Gradient Methods (Model-Free RL)
+### 🎯 05. Policy Gradient Methods (Model-Free RL)
 - REINFORCE (Monte Carlo Policy Gradient)  
 - Actor–Critic  
 - Soft Actor–Critic (SAC)  
